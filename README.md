@@ -1,6 +1,8 @@
 # AgroIntelliJ
+
+#### Description
 * AI-driven solutions for climate-resilient agriculture and food security.
-- * Description
+
  Agro-IntelliJ is an AI-powered system that uses NDVI and climate data from satellites to predict wheat yield, with a web interface that lets users see predictions in real time.
 
  ### Folder Structure
