@@ -20,7 +20,13 @@
  - HTML
  - CSS 
  - JAVASCRIPT 
+ - Trend Chart (NDVI Curves, Yield Trends)
+
  ### BACKEND
+ - Data Pipeline
+   * Pull satellite data via Google Earth Engine 
+   * Process NDVI + weather data 
+
  #### - Integrating
  - Segment Anything Model v2 - field detection 
 - Google Earth Engine - NDVI extraction 
@@ -29,4 +35,17 @@
 - Render for the backend 
 - Netlify for the whole bulk
 - Model Api end point will be used 
+### Web Application
+The system includes a simple web interface where users can:
+- Input environmental parameters
+- Predict wheat yield in real-time
+
+
+#### FUTURE WORK
+  
+- Work with Google Earth Engine
+- Deep learning (LSTM and Transformers)
+- A pipeline for satellite data in real time
+- Making predictions at the field level with high-resolution images
+
 
