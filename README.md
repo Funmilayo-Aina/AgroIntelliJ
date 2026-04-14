@@ -1,5 +1,7 @@
 # AgroIntelliJ
-* AI-driven solutions for climate-resilient agriculture and food security.”
+* AI-driven solutions for climate-resilient agriculture and food security.
+- * Description
+ Agro-IntelliJ is an AI-powered system that uses NDVI and climate data from satellites to predict wheat yield, with a web interface that lets users see predictions in real time.
 
  ### Folder Structure
 - * wheat-yield-ai/
@@ -18,9 +20,9 @@
  - JAVASCRIPT 
  ### BACKEND
  #### - Integrating
- - Segment Anything Model v2 → field detection 
-- Google Earth Engine → NDVI extraction 
-- Sentinel-2 → imagery 
+ - Segment Anything Model v2 - field detection 
+- Google Earth Engine - NDVI extraction 
+- Sentinel-2 - imagery 
 - * DEPLOYMENT
 - Render for the backend 
 - Netlify for the whole bulk
