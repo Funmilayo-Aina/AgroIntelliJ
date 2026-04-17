@@ -14,7 +14,18 @@
 - * notebooks/
 - * README.md
  ### pip install dependencies
- pandas numpy scikit-learn matplotlib xgboost
+ pandas  
+ matplotlib
+ fastapi
+uvicorn
+pandas
+numpy
+scikit-learn
+xgboost
+earthengine-api
+requests
+geopandas
+shapely
  ### Load Dataset
  ### FRONT END
  - HTML
@@ -26,6 +37,8 @@
  - Data Pipeline
    * Pull satellite data via Google Earth Engine 
    * Process NDVI + weather data 
+   * source data from Kaggle: https://www.kaggle.com/datasets/shaikasif89/wheat-yeild
+   
 
  #### - Integrating
  - Segment Anything Model v2 - field detection 
